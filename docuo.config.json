@@ -3,7 +3,7 @@
   "favicon": "image/favicon.ico",
   "themeConfig": {
     "navbar": {
-      "title": "My project看看",
+      "title": "My project测试",
       "logo": "image/logo.png",
       "items": [
         {
